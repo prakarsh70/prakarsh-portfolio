@@ -1,7 +1,9 @@
 {
-  "name": "vite-scaffold",
+  "name": "prakarsh-shrivastava-portfolio",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Prakarsh Shrivastava — Senior Frontend Engineer & UI Architect",
+  "author": "Prakarsh Shrivastava <prakarsh.shrivastava70@gmail.com>",
   "type": "module",
   "scripts": {
     "dev": "vite",

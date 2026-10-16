@@ -8,6 +8,7 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x: clip;
 }
 
 body {
@@ -16,6 +17,7 @@ body {
   background-color: #080d1a;
   color: #e2e8f0;
   font-family: var(--font-sans);
+  overflow-x: clip;
 }
 
 /* Background subtle tech grid */
