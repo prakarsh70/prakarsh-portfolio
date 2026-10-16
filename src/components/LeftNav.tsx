@@ -211,7 +211,7 @@ export default function LeftNav() {
         <motion.div variants={itemVariants} className="flex items-center justify-between text-slate-400">
           <div className="flex items-center gap-4">
             <a
-              href="https://github.com"
+              href="https://github.com/prakarsh70"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-lg bg-slate-900/60 border border-slate-800 text-slate-400 hover:text-teal-300 hover:border-teal-500/30 hover:bg-slate-800/80 transition-all"
